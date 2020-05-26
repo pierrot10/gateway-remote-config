@@ -9,9 +9,9 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 46.21447900,
-    "ref_longitude": 6.00621200,
-    "ref_altitude": 400,
+    "ref_latitude": 46.45360787,
+    "ref_longitude": 6.21925013,
+    "ref_altitude": 881,
     "contact_email": "info@smart-idea.io",
     "description": "Smart sensors 1 Gateway"
   }
